@@ -1,0 +1,1 @@
+"""ExpenseFlow application package."""
